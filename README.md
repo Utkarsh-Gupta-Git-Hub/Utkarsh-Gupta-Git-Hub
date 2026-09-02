@@ -88,13 +88,20 @@
 ## 🚀 Featured Projects
 
 | **🎯 Smart Civic Complaint Management System** | Event-driven platform for filing, routing & prioritizing civic complaints with AI-based decisioning and fault-tolerant microservices.          | `Java 21` `Spring Boot` `Kafka` `Spring AI` `Ollama` `Redis` `Resilience4j` | [Code](https://github.com/Utkarsh-Gupta-Git-Hub/Complience_System)          |
+
 | **🚦 Token Bucket Rate Limiter**               | Distributed rate limiter using Redis & Lua with IP-based and user/endpoint-level limiting for scalable API protection.                         | `Java 21` `Spring Boot` `Redis` `Lua` `Docker`                              | [Code](https://github.com/Utkarsh-Gupta-Git-Hub/TokenBucketRateLimiter)     |
+
 | **💰 Finance Platform Backend**                | Secure microservices backend for expense management with JWT authentication, RBAC, asynchronous AI analysis & event-driven communication.      | `Java` `Spring Boot` `RabbitMQ` `JWT` `Gemini API` `MongoDB` `MySQL`        | [Code](#)                                                                   |
 | **🤖 Ollama RAG**                              | AI-powered Retrieval-Augmented Generation application using locally hosted LLMs to provide context-aware responses from retrieved information. | `Java` `Spring AI` `Ollama` `RAG`                                           | [Code](https://github.com/Utkarsh-Gupta-Git-Hub/Ollama-Rag)                 |
+
 | **⚙️ Microservices Platform**                  | Backend project exploring service discovery, API Gateway, inter-service communication and distributed application architecture.                | `Java` `Spring Boot` `Spring Cloud` `Microservices`                         | [Code](https://github.com/Utkarsh-Gupta-Git-Hub/Microservices)              |
+
 | **💼 Job Application System**                  | Backend application for managing jobs and applications with REST APIs, CRUD operations, validation and database persistence.                   | `Java` `Spring Boot` `MySQL` `REST API`                                     | [Code](https://github.com/Utkarsh-Gupta-Git-Hub/Job-Application-Monolithic) |
+
 | **🔐 ContactVault**                            | Contact management application demonstrating CRUD operations, RESTful API design, validation and database integration.                         | `Java` `Spring Boot` `MySQL` `REST API`                                     | [Code](https://github.com/Utkarsh-Gupta-Git-Hub/ContactVault)               |
+
 | **📝 TechBlog**                                | Backend-focused blogging platform implementing content management, CRUD operations and database-backed REST APIs.                              | `Java` `Spring Boot` `MySQL` `JPA`                                          | [Code](https://github.com/Utkarsh-Gupta-Git-Hub/TechBlog)                   |
+
 | **📧 Email AI Assistant**                      | AI-powered browser extension designed to automate and simplify common email-related tasks.                                                     | `JavaScript` `AI` `Browser Extension`                                       | [Code](https://github.com/Utkarsh-Gupta-Git-Hub/Email-Extension)            |
 
 ---
