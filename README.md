@@ -4,7 +4,7 @@
 
 ### Software Developer · Java Developer· AI Enthusiast · Cloud Learner · System Design
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems+with+Java;Developing+AI-poweredapplications;Java+%7C+Spring+Boot+%7C+React+%7C+Python;Microservices+%7C+Kafka+%7C+Redis+%7C+Docker;250%2B+LeetCode+problems+solved)](https://github.com/Utkarsh-Gupta-Git-Hub)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems+with+Java;Developing+AI-powered+applications;Java+%7C+Spring+Boot+%7C+React+%7C+Python;Microservices+%7C+Kafka+%7C+Redis+%7C+Docker;250%2B+LeetCode+problems+solved)](https://github.com/Utkarsh-Gupta-Git-Hub)
 
 [![Portfolio](https://img.shields.io/badge/View_My_Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https:///)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/utkarsh-gupta-8a1611294)
@@ -57,29 +57,17 @@
 ## **Backend & Data**
 
 ![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
 ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-
 ![Resilience4j](https://img.shields.io/badge/Resilience4j-000000?style=for-the-badge&logoColor=white)
 
 **AI / ML & Cloud**
