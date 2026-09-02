@@ -4,7 +4,7 @@
 
 ### Software Developer · Java Developer· AI Enthusiast · Cloud Learner · System Design
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Building+AI-powered+full-stack+apps;Turning+resumes+into+mock+interviews;Java+%7C+Python+%7C+React+%7C+Next.js;185%2B+problems+solved+on+LeetCode)](https://prashant-portfolio-lac.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems+with+Java;Developing+AI-powered+full-stack+applications;Java+%7C+Spring+Boot+%7C+React+%7C+Python;Microservices+%7C+Kafka+%7C+Redis+%7C+Docker)](https://github.com/Utkarsh-Gupta-Git-Hub)
 
 [![Portfolio](https://img.shields.io/badge/View_My_Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https:///)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/utkarsh-gupta-8a1611294)
