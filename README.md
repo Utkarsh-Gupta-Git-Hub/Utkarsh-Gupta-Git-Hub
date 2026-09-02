@@ -137,12 +137,16 @@
 ---
 
 
+## 🎓 Education
 
-##Education
-- **Gurukula Kangri Vishwavidayalya Haridwar** — Bachelor of Technology, Computer Science and Engineering ()
-- **Saroj VidyaShankar Inter College** — - Intermediate - UP Board - English Medium - (90.8%)
-- **Saroj VidyaShankar Inter College** — - High School - UP Board - English Medium - (84.5%)
+**🏛️ Gurukula Kangri Vishwavidyalaya, Haridwar**  
+B.Tech — Computer Science & Engineering · **CGPA: 8.6/10**
 
+**🏫 Saroj VidyaShankar Inter College**  
+Intermediate — UP Board · English Medium · **90.8%**
+
+**🏫 Saroj VidyaShankar Inter College**  
+High School — UP Board · English Medium · **84.5%**
 
 ## 📊 GitHub Stats
 
